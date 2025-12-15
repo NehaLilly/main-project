@@ -1,0 +1,8 @@
+# Models directory
+# Place your trained TensorFlow.js models here
+# 
+# Expected structure:
+# models/
+# ├── cheat_detection_model.json
+# ├── cheat_detection_model_weights.bin
+# └── model_metadata.json
